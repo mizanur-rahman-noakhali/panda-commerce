@@ -18,5 +18,47 @@
     text-align: left;
     background-color:#ff2b7e;
     padding: 5px;
+    border-radius: 5px;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: #ff2b7e;
+}
+
+.cat3{
+    background-color: blue;
+}
+.categories h1 {
+
+    color: white;
+    
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 80px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Subscribe{
+    height:300px;
+}
+#Subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+
 
